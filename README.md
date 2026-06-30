@@ -161,7 +161,7 @@ The notebook contains visualizations such as:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/saberarukundi/Diwali-Sales-Analysis.git
+git clone https://github.com/saberarukundi/Diwali_Data_Analysis.git
 ```
 
 ### 2. Navigate to the Project Directory
